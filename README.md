@@ -105,8 +105,8 @@
 I'm a 21-year-old undergraduate student and developer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out my [linktree](https://www.linktr.ee/arvindparekh) to learn more about me.
-<!-- - Explore my [blog](https://arvindparekh.hashnode.dev/) where I share insights and learnings. -->
 - Stay updated with my journey on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh).
+<!-- - Explore my [blog](https://arvindparekh.hashnode.dev/) where I share insights and learnings. -->
 <!-- - Explore my [VS Code Configuration](https://github.com/arvindparekh/vscode-settings) for development optimization. -->
 
 ## 🔭 Current Endeavors 

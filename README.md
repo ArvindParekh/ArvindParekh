@@ -111,7 +111,8 @@ I'm a 21-year-old undergraduate student and developer based in India, and I'm pa
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a frontend developer intern in India, where my journey involves both building and learning. Here's what I'm currently focused on:
+<!-- I'm currently working as a frontend developer intern in India, where my journey involves both building and learning.  -->
+Here's what I'm currently focused on:
 
 - I'm engaged in exciting frontend and fullstack projects.
 - I'm exploring different tools and libraries to enhance my skill set.
@@ -127,6 +128,6 @@ I'm currently working as a frontend developer intern in India, where my journey 
 ## 📫 Contact
 
  Interested about tech and good food? Let's chat!
- For a quick response, DM me on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh/), or [Instagram](https://www.instagram.com/arvind.zip/). 
+ DM me on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh/), or [Instagram](https://www.instagram.com/arvind.zip/). 
  
 

@@ -111,7 +111,7 @@ I'm a 21-year-old undergraduate student and developer based in India, and I'm pa
 
 ## 🔭 Current Endeavors 
 
-<!-- I'm currently working as a frontend developer intern in India, where my journey involves both building and learning.  -->
+I'm currently working as a Software Developer intern in India, where my journey involves both building and learning. 
 Here's what I'm currently focused on:
 
 - I'm engaged in exciting frontend and fullstack projects.

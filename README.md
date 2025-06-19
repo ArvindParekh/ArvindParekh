@@ -102,16 +102,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </div> -->
 
-I'm a 21-year-old undergraduate student and developer based in India, and I'm passionate about crafting digital experiences. 
+I'm a 22-year-old graduate student and developer based in Boston, Massachusetts, and I'm passionate about crafting digital experiences. 
 
 - Check out my [linktree](https://www.linktr.ee/arvindparekh) to learn more about me.
 - Stay updated with my journey on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh).
+- Check out my [personal changelog](https://changelog.arvindxyz.co).
 <!-- - Explore my [blog](https://arvindparekh.hashnode.dev/) where I share insights and learnings. -->
 <!-- - Explore my [VS Code Configuration](https://github.com/arvindparekh/vscode-settings) for development optimization. -->
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a Software Developer intern in India, where my journey involves both building and learning. 
+I'm currently a graduate student studying computer science at Northeastern University, Boston, where my journey involves both building and learning. 
 Here's what I'm currently focused on:
 
 - I'm engaged in exciting frontend and fullstack projects.
@@ -121,7 +122,7 @@ Here's what I'm currently focused on:
 
 ## ✨ Interesting Facts 
 
-- I'm a man of many interest: I dive into books, strum the guitar, take a dip in the pool, join marathons, and travel to new places.
+- I'm a man of many interest: I dive into books, strum the guitar, take a dip in the pool, live in libraries, join marathons, and travel to new places.
 - As a kid, I wanted to be a singer.
 - I love a good Subway meal.
 

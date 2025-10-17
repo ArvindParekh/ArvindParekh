@@ -115,10 +115,16 @@ I'm a 22-year-old graduate student and developer based in Boston, Massachusetts,
 I'm currently a graduate student studying computer science at Northeastern University, Boston, where my journey involves both building and learning. 
 Here's what I'm currently focused on:
 
-- I'm engaged in exciting frontend and fullstack projects.
-- I'm exploring different tools and libraries to enhance my skill set.
+- I'm engaged in exciting fullstack projects – usually with AI, sometimes without (checkout [palmy](https://github.com/ArvindParekh/palmy), [quadly](https://github.com/ArvindParekh/quadly), [whisper-ai](https://github.com/ArvindParekh/whisper-ai) (current)).
+- I'm exploring new tools and libraries because it's pretty fun.
 - I'm contributing to Open-Source.
 - I'm an early riser, always driven and constantly learning in the tech world.
+
+## ✅ Achievements
+
+- Speaker @ KubeCon + CloudNativeCon India 2024
+- Lift Scholarship Recipient by The Linux Foundation
+- Kubernetes Contributor Award Recipient by CNCF
 
 ## ✨ Interesting Facts 
 

@@ -102,9 +102,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </div> -->
 
-I'm a 22-year-old graduate student and developer based in Boston, Massachusetts, and I'm passionate about crafting digital experiences. 
+I'm a 22-year-old graduate student and developer based in Boston, Massachusetts, and I'm obsessed with building, crafting, and shipping digital experiences. 
 
-- Check out my [personal website](https://arvindparekh.tech) to learn more about me.
+- Check out my [personal website](https://arvindparekh.tech) to learn more about me and see my writings.
 - Stay updated with my journey on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh).
 <!-- - Check out my [personal changelog](https://changelog.arvindxyz.co). -->
 <!-- - Explore my [blog](https://arvindparekh.hashnode.dev/) where I share insights and learnings. -->

@@ -117,7 +117,7 @@ Here's what I'm currently focused on:
 
 - I'm engaged in exciting fullstack projects – usually with AI, sometimes without (checkout [palmy](https://github.com/ArvindParekh/palmy), [quadly](https://github.com/ArvindParekh/quadly), [whisper-ai](https://github.com/ArvindParekh/whisper-ai) (current)).
 - I'm exploring new tools and libraries because it's pretty fun.
-- I'm contributing to Open-Source.
+- I'm contributing to Open-Source, particularly [kubernetes](https://github.com/Kubernetes). ([highlights](https://hackmd.io/kkY1A1_sR3ee9XHoyOrTNA?view))
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✅ Achievements
@@ -125,6 +125,8 @@ Here's what I'm currently focused on:
 - Speaker @ KubeCon + CloudNativeCon India 2024
 - Lift Scholarship Recipient by The Linux Foundation
 - Kubernetes Contributor Award Recipient by CNCF
+- Member of the Program Committee @ KubeCon + CloudNativeCon Europe 2025
+- Kubernetes v1.33, v1.34 Release Team Member
 
 ## ✨ Interesting Facts 
 

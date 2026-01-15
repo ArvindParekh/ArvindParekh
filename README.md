@@ -112,7 +112,8 @@ I'm a 22-year-old graduate student and developer based in Boston, Massachusetts,
 
 ## 🔭 Current Endeavors 
 
-I'm currently a graduate student studying computer science at Northeastern University, Boston, where my journey involves both building and learning. 
+I'm currently a graduate student studying computer science at Northeastern University, Boston, where my journey involves both building and learning. I've taken a break this spring semester to go work at [Mudstack](https://mudstack.com/), an a16z backed startup, which is essentially git for game companies.
+
 Here's what I'm currently focused on:
 
 - I'm engaged in exciting fullstack projects – usually with AI, sometimes without (checkout [palmy](https://github.com/ArvindParekh/palmy), [quadly](https://github.com/ArvindParekh/quadly), [whisper-ai](https://github.com/ArvindParekh/whisper-ai) (current)).

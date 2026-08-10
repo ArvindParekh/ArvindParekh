@@ -104,8 +104,8 @@
 
 I'm a 22-year-old graduate student and developer based in Boston, Massachusetts, and I'm obsessed with building, crafting, and shipping digital experiences. 
 
-- Check out my [personal website](https://arvindparekh.tech) to learn more about me and see my writings.
-- Stay updated with my journey on [𝕏](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh).
+- Check out my [personal website](https://arvindparekh.me) to learn more about me and see my writings.
+- Stay updated with my journey on [𝕏](https://x.com/arvinddotdev), [LinkedIn](https://www.linkedin.com/in/arvindparekh).
 <!-- - Check out my [personal changelog](https://changelog.arvindxyz.co). -->
 <!-- - Explore my [blog](https://arvindparekh.hashnode.dev/) where I share insights and learnings. -->
 <!-- - Explore my [VS Code Configuration](https://github.com/arvindparekh/vscode-settings) for development optimization. -->
@@ -138,6 +138,6 @@ Here's what I'm currently focused on:
 ## 📫 Contact
 
  Interested about tech and good food? Let's chat!
- DM me on [Twitter](https://www.twitter.com/ArvindParekh_21), [LinkedIn](https://www.linkedin.com/in/arvindparekh/), or [Instagram](https://www.instagram.com/arvind.zip/). 
+ DM me on [Twitter](https://x.com/arvinddotdev), [LinkedIn](https://www.linkedin.com/in/arvindparekh/), or [Instagram](https://www.instagram.com/arvind.zip/). 
  
 
